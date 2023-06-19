@@ -8,8 +8,8 @@
 
 int main(void)
 {
-	char separator = ',';
-	char number = '0';
+	int separator = ',';
+	int  number = '0';
 
 	while (number <= '9')
 	{
