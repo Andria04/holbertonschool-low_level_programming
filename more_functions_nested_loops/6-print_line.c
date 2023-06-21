@@ -18,6 +18,7 @@ void print_line(int n)
 	else
 	{
 		int i;
+
 		for (i = 0; i < n; i++)
 		{
 			putchar(s);
