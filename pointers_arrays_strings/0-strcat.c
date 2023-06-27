@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strcat - concatenates thes tring pointed to by £src
+ * _strcat - concatenates thes tring pointed to by £src
  * @dest: a pointer to the string
  * @src: the source string
  * Return: a pointer to the dest
